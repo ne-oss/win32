@@ -3,7 +3,7 @@ Description: Physical Address Extension (PAE) is a processor feature that enable
 ms.assetid: 1aec2414-cc93-4a86-955d-2433360c9125
 title: Physical Address Extension
 ms.topic: article
-ms.date: 05/31/2018
+ms.date: 05/31/2020
 ---
 
 # Physical Address Extension
@@ -22,11 +22,11 @@ PAE does not change the amount of virtual address space available to a process. 
 
 PAE is supported only on the following 32-bit versions of Windows running on x86-based systems:
 
--   Windows 7 (32 bit only)
--   Windows Server 2008 (32-bit only)
--   Windows Vista (32-bit only)
--   Windows Server 2003 (32-bit only)
--   Windows XP (32-bit only)
+-   Windows 7 (64-bit only)
+-   Windows Server 2008 (64-bit only)
+-   Windows Vista (64-bit only)
+-   Windows Server 2003 (64-bit only)
+-   Windows XP (64-bit only)
 
 ## Enabling PAE
 
